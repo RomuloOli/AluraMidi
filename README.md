@@ -1,2 +1,2 @@
 # AluraMidi
-Alura Midi - pra você fazer um ritmo daora
+Alura Midi - pra você fazer um som daora
